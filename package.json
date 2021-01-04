@@ -1,0 +1,20 @@
+{
+  "name": "notyourlist-vue",
+  "version": "1.0.0",
+  "description": "A simple todo list. VueJS Edition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmutsvanemoto/notyourlist-vue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmutsvanemoto/notyourlist-vue/issues"
+  },
+  "homepage": "https://github.com/dmutsvanemoto/notyourlist-vue#readme"
+}
